@@ -1,3 +1,15 @@
+# Description
+This project uses Laravel as backend due to the requirement of the time the system was copulated with the Frontend
+using Vue3 and Vite as the bundler, but both projects are independent and can be used separately.
+
+The database in Sqlite is included for testing purposes, but it can be changed to any other database engine if needed.
+
+TODO list
+- [ ] Add unit tests
+- [ ] Add integration tests
+- [ ] Add pipeline to run tests
+- [ ] Add pipeline to deploy to production
+
 # Installation
 
 ```bash
