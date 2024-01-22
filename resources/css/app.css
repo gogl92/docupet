@@ -1,0 +1,35 @@
+.header {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh; /* Adjust the height as needed */
+}
+
+.body > div {
+    width: 100%;
+    max-width: 600px; /* Adjust the width as needed */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Optional: adds a shadow for better focus */
+    margin: 20px;
+}
+
+.footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.paws{
+    width: 10%;
+    height: 10%;
+}
+
